@@ -1,6 +1,6 @@
-2
+3
 ||| 
-Kodi Version 3.1 has been released on June 1 2018. Contact Javaughn to update.
+Kodi Version 3.1 has been released on May 6 2018. Contact Javaughn to update.
 
 CHANGES SINCE LAST UPDATE:
 - Clicking on "TV Shows" or "Movies" on the homepage refreshes the featured TV shows and movies on the homepage
