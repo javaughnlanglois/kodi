@@ -1,9 +1,9 @@
-10
+100
 ||| 
 Kodi Version 3.1 has been released on May 6 2018. Contact Javaughn to update.
 
 CHANGES SINCE LAST UPDATE:
-- Clicking on "TV Shows" or "Movies" refreshes the featured TV shows and movies on the homepage
+- Clicking on "TV Shows" or "Movies" refreshes the TV shows and movies on the homepage
 - Disabled "RSS Feeds"
 - Installed "Notifications" Addon to display update notifications on startup
 - Uninstaled all web interfaces except the default Kodi interface
