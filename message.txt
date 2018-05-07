@@ -1,9 +1,10 @@
-101
+102
 ||| 
-Kodi Version 3.3 has been released on May 6 2018. Contact Javaughn to update.
+Kodi Version 3.6 has been released on May 6 2018. Contact Javaughn to update.
 
 CHANGES SINCE LAST UPDATE:
 - Clicking on "TV Shows" or "Movies" refreshes the TV shows and movies on the homepage
+- Popup appears when a new update is available
 - Added "Update" to homepage to install the latest Kodi update automatically
 - Disabled "RSS Feeds"
 - Installed "Notifications" Addon to display update notifications on startup
